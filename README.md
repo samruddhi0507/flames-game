@@ -31,3 +31,29 @@ Output : Relationship status : Friends
 
 In above given two names A and Y are common letters which are occurring one time(common count) in both names so we are removing these letters from both names. Now count the total letters that are left here it is 5. Now start removing letters one by one from FLAMES using the count we got and the letter which lasts the process is the result.
 Counting is done in anti-clockwise circular fashion.
+
+```
+FLAMES
+counting is start from F, E is at 5th count so we remove E and start counting again but a this time start from S.
+FLAMS
+M is at 5th count so we remove M and counting start from S.
+FLAS
+S is at 5th count so we remove S and counting start from F.
+FLA
+L is at 5th count so we remove L and counting start from A.
+FA
+A is at 5th count so we remove A. now we have only one letter is remaining so this is the final answer.
+F
+So, the relationship is F i.e. Friends .
+
+```
+
+
+
+
+
+
+
+
+
+
