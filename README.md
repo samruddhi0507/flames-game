@@ -51,6 +51,12 @@ So, the relationship is F i.e. Friends .
 
 Take two names as input then remove the common characters with their respective common occurrences. For removing purpose we create user-defined remove_match_char function with two arguments as list1 and list2 which stores list of characters of two players name respectively and return list of concatenated list(list1 + “*” flagst2) and flag value which we store in ret_list variable.After removing all the common characters, count the total no. of remaining characters then create a result list with FLAMES acronym i.e [“Friends”, “Love”, “Affection”, “Marriage”, “Enemy”, “Siblings”]. Now start removing word one by one untill list not contains only one word, using the total count which we got. the word which remains in the last, is the result.
 
+### Output:
+```
+Player 1 name : ANKIT
+Player 2 name : DEEPIKA
+Relationship status : Marriage
+```
 
 
 
