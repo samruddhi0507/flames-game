@@ -27,3 +27,7 @@ Input :   player1 name : AJAY
 Output : Relationship status : Friends
 
 ```
+### Explanation: 
+
+In above given two names A and Y are common letters which are occurring one time(common count) in both names so we are removing these letters from both names. Now count the total letters that are left here it is 5. Now start removing letters one by one from FLAMES using the count we got and the letter which lasts the process is the result.
+Counting is done in anti-clockwise circular fashion.
