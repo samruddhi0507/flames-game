@@ -14,3 +14,7 @@ There are two steps in this game:
 
 ### Get the result :
 
+
+* Take FLAMES letters as [“F”, “L”, “A”, “M”, “E”, “S”]
+* Start removing letter using the count we got.
+* The letter which last the process is the result.
