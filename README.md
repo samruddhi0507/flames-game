@@ -6,8 +6,11 @@ FLAMES is a popular game named after the acronym: Friends, Lovers, Affectionate,
 
 There are two steps in this game:
 
-**Get the count :** 
+### Get the count :
 
  * Take the two names.
 * Remove the common characters with their respective common occurrences.
 * Get the count of the characters that are left .
+
+### Get the result :
+
